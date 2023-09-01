@@ -1,0 +1,22 @@
+{
+  "name": "doge-productions.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doge-Productions/doge-productions.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doge-Productions/doge-productions.github.io/issues"
+  },
+  "homepage": "https://github.com/Doge-Productions/doge-productions.github.io#readme",
+  "dependencies": {
+    "docsify-darklight-theme": "^3.2.0"
+  }
+}
